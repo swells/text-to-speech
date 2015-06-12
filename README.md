@@ -7,7 +7,7 @@
 
 1. `$ git clone https://github.com/swells/text-to-speech.git`
 
-2. `$ cd text-to-search`
+2. `$ cd text-to-speech`
 
 3. `$ npm install`
 

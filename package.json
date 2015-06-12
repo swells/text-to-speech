@@ -5,7 +5,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/swells/text-to-speech.git"
-    }
+    },
     "main": "tts.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
