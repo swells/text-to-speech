@@ -6,7 +6,7 @@ var got  = require('got'),
     SSML_TPL = '<speak version="1.0" xml:lang="en-us">' +
                  '<voice xml:lang="%s" xml:gender="%s" name="%s">%s</voice>' +
               '</speak>',
-    CLIENT_ID    = '{{ PUT YOUR USER ID HERE }}';
+    CLIENT_ID    = '{{ PUT YOUR USER ID HERE }}',
     SUBSCRIPTION = '{{ PUT YOUR SpeechAPI Subscription HERE }}';
 
 //
