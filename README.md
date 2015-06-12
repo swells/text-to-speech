@@ -21,7 +21,7 @@ SUBSCRIPTION = '{{ PUT YOUR SpeechAPI Subscription HERE }}'
 ```
 
 I not confident that the `CLIENT_ID` is needed or not? The `SUBSCRIPTION` 
-however is a must. You can can your subscription key by:
+however is a must. You can get your subscription key by:
 
 1. [Sign up](http://www.projectoxford.ai/speech) to use the Speech APIs
 2. Login into the Azure portal
