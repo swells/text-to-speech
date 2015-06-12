@@ -1,0 +1,27 @@
+{
+    "name": "text-to-speech",
+    "version": "1.0.0",
+    "description": "Azure Speech API Text To Speach Test",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/swells/text-to-speech.git"
+    }
+    "main": "tts.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "AzureML",
+        "Revolution",
+        "R",
+        "Microsoft",
+        "Speech to Text"
+        "Text to Speech",
+        "SpeechAPIs"
+    ],
+    "author": "Sean Wells <sean.wells.sc@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "got": "^3.2.0"
+    }
+}
