@@ -34,7 +34,8 @@ $ node tts.js
 ```
 
 This will write out a file called `speech.wav`. Open `speech.wav` and you should
-hear the speech 'Is JavaScript a Functional Programming Language?' in English.
+hear the speech in English: 
+> Is JavaScript a Functional Programming Language?
 
 ## License
 
